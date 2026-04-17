@@ -1,0 +1,6 @@
+---
+# defaults file for vector
+vector_version: "0.37.1"
+vector_install_path: "/usr/local/bin/vector"
+vector_config_dir: /etc/vector
+vector_config_file: vector.toml
