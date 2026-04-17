@@ -29,10 +29,10 @@
   <img src="scrsht/S6.png" width="900"/>
 </p>
 <p align="center">
-  <img src="scrsht/S7.png" width="900"/>
+  <img src="scrsht/S7.png.png" width="900"/>
   <br>
 </p>
 <p align="center">
-  <img src="scrsht/S8.png" width="900"/>
+  <img src="scrsht/S8.png.png" width="900"/>
   <br>
 </p>
