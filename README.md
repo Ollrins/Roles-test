@@ -33,6 +33,6 @@
   <br>
 </p>
 <p align="center">
-  <img src="scrsht/S8png.png" width="900"/>
+  <img src="scrsht/S8png.png" width="500"/>
   <br>
 </p>
